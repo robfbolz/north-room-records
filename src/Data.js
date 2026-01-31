@@ -86,7 +86,7 @@ const data = [
     display_year: '2025',
     release_date: 'December 19 2025', 
     role: 'Producing, Engineering, Mixing, Mastering',
-    image: 'chi25.jpeg',
+    image: 'chi25.jpg',
     link: 'https://bowlingalleyoop.bandcamp.com/album/chicago-25',
   },
   {
@@ -95,7 +95,7 @@ const data = [
     display_year: '2025',
     release_date: 'October 31 2025',
     role: 'Producing, Engineering, Mixing',
-    image: 'fixerupper.jpeg',
+    image: 'fixerupper.jpg',
     link: 'https://atticposture.bandcamp.com/album/fixerupper',
   },
   {
@@ -104,8 +104,8 @@ const data = [
     display_year: '2025',
     release_date: 'September 20 2025',
     role: 'Producing, Engineering, Mixing',
-    image: 'sorry.jpeg',
-    link: 'https://open.spotify.com/track/0qajsOLQlLaPFJAKDate8u?si=23b973821609432c',
+    image: 'sorry.jpg',
+    link: 'https://open.spotify.com/track/0qajsOLQlLaPFJAKDate8u?si=97770a275e194ae0',
   },
 ];
 
