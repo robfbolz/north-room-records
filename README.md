@@ -1,4 +1,5 @@
 Run **npm run start** to spin up the site locally
+
 Pushes to the **main** branch will automatically deploy
 
 Update album data in src/Data.js. Structure is as follows:
