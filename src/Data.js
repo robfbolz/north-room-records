@@ -1,7 +1,7 @@
 const data = [
   {
     title: 'Plot Armor',
-    artist: "Let's Rally",
+    artist: "Rally Point",
     role: 'Producing, Engineering, Mixing',
     display_year: '2022',
     release_date: 'June 2 2022',
@@ -79,6 +79,33 @@ const data = [
     release_date: 'August 26 2022',
     image: 'AP_FeltForever.jpg',
     link: 'https://atticposture.bandcamp.com/album/felt-like-forever-ep',
+  },
+  {
+    title: 'Chicago 25',
+    artist: 'Bowling Alley Oop',
+    display_year: '2025',
+    release_date: 'December 19 2025', 
+    role: 'Producing, Engineering, Mixing, Mastering',
+    image: 'chi25.jpeg',
+    link: 'https://bowlingalleyoop.bandcamp.com/album/chicago-25',
+  },
+  {
+    title: 'FixerUpper',
+    artist: 'Attic Posture',
+    display_year: '2025',
+    release_date: 'October 31 2025',
+    role: 'Producing, Engineering, Mixing',
+    image: 'fixerupper.jpeg',
+    link: 'https://atticposture.bandcamp.com/album/fixerupper',
+  },
+  {
+    title: 'Sorry for Myself',
+    artist: 'Erin May',
+    display_year: '2025',
+    release_date: 'September 20 2025',
+    role: 'Producing, Engineering, Mixing',
+    image: 'sorry.jpeg',
+    link: 'https://open.spotify.com/track/0qajsOLQlLaPFJAKDate8u?si=23b973821609432c',
   },
 ];
 
