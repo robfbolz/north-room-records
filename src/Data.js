@@ -107,15 +107,6 @@ const data = [
     image: 'sorry.jpg',
     link: 'https://open.spotify.com/track/0qajsOLQlLaPFJAKDate8u?si=97770a275e194ae0',
   },
-   {
-    title: 'Sunday / Balatro (Took My Kids)',
-    artist: 'Freeplay',
-    display_year: '2026',
-    release_date: 'October 10 2026',
-    role: 'Engineering, Mixing',
-    image: 'freeplay.avif',
-    link: 'https://freeplayphl.bandcamp.com/album/sunday-balatro-took-my-kids',
-  },
 ];
 
 export const sortedData = data
