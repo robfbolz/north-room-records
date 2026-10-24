@@ -108,7 +108,7 @@ const data = [
     link: 'https://open.spotify.com/track/0qajsOLQlLaPFJAKDate8u?si=97770a275e194ae0',
   },
   {
-    title: 'Sunday\/Balatro (Took My Kids)',
+    title: 'Sunday / Balatro (Took My Kids)',
     artist: 'Freeplay',
     display_year: '2026',
     release_date: 'October 10 2026',
