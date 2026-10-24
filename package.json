@@ -2,7 +2,7 @@
   "name": "north-room-records",
   "version": "0.1.1",
   "private": true,
-  "homepage": "https://robfbolz.github.io/",
+  "homepage": "https://robfbolz.github.io/north-room-records",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
